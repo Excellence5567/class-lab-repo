@@ -1,6 +1,6 @@
 ## Class Information
-- Name: [Your Name Here]  
-- Certification: [Your Certification Name Here]  
+- Name: Oluwagbemi Excellence 
+- Certification: I am currently working on Git and Github in the Meta Backend Development course
 
 ## Instructions
 Please replace the placeholders with your details:
